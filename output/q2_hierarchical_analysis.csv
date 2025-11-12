@@ -1,0 +1,10 @@
+facility_type,region,total_facilities,total_providers,avg_years_experience,total_service_charge,total_insurance_paid
+Hospital,North,,,,,
+Hospital,South,1.0,324.0,19.3811394891945,334927.3,267183.95
+Hospital,West,,,,,
+Specialty Center,North,,,,,
+Specialty Center,South,2.0,424.0,19.742690058479532,672546.29,540230.15
+Specialty Center,West,2.0,427.0,19.73784355179704,599974.54,482436.48
+Urgent Care,North,1.0,328.0,20.16078431372549,334992.21,269207.92
+Urgent Care,South,2.0,430.0,19.88144329896907,611793.11,488548.93
+Urgent Care,West,2.0,444.0,20.476419634263713,647192.24,515343.09
