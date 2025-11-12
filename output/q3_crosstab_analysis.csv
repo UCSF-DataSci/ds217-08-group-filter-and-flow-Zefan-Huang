@@ -1,3 +1,6 @@
+Assignment 8 - Question 3: Crosstab Analysis
+Facility type vs Region distribution with totals.
+
 facility_type,North,South,West,Total
 Hospital,0,509,0,509
 Specialty Center,0,1026,946,1972
